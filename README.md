@@ -62,7 +62,9 @@ Hyderabad is the capital of southern India's Telangana state A major center for 
 > C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. C programming is an excellent language to learn to program for beginners.
 [click here to know about C](https://en.wikipedia.org/wiki/C_(programming_language))
 
-``` long some_function();
+```
+
+ long some_function();
 /* int */ other_function();
 
 /* int */ calling_function()
@@ -76,4 +78,6 @@ Hyderabad is the capital of southern India's Telangana state A major center for 
     else
           test2 = other_function();
     return test2;
-} ```
+} 
+
+```
