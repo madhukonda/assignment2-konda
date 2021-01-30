@@ -88,7 +88,7 @@ Hyderabad is the capital of southern India's Telangana state A major center for 
 
 | Location               | Time to be Spent | Expected Cost   |    Images                |
 |------------------------|------------------|-----------------|--------------------------|
-| Ramoji Film City       |   3 Days         |   200 $         |  ![cdcd](Charminar.jpg)  |
+| Ramoji Film City       |   3 Days         |   200 $         |  ![cdcd](C:\Users\S542311\Desktop\GitHub\assignment2-konda\Images\Charminar.jpg)  |
 | Charminar              |   2 Hours        |   50 $          |                          |
 | Golconda Fort          |   3 Hours        |   100 $         |                          |
 | Nehru Zoological Park  |   4 Hours        |   150 $         |                          |
