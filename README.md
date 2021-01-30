@@ -9,7 +9,7 @@ Biryani is a mixed rice dish it is made with Indian spices, rice, and meat, and 
 
 -------------------------------------------
 # Groceries 
-1. Go to the store
+1.Go to the store
 2. Buy Food
      1. Rice 
      2. Tomatoes
@@ -33,5 +33,4 @@ Biryani is a mixed rice dish it is made with Indian spices, rice, and meat, and 
 * Completed
 * Return Home
 
-
-  
+[link of AboutMe.md](AboutME.md)
