@@ -35,7 +35,7 @@ Biryani is a mixed rice dish it is made with Indian spices, rice, and meat, and 
 
 [link of AboutMe.md](AboutMe.md)
 
--------------------------------------------------
+-------------------------------------------------------------
 # Places to Travel 
 This section is about places to visit in and around hyderabad and expected cost and price to travel
 Hyderabad is the capital of southern India's Telangana state A major center for the technology industry and ancient historic places, upscale restaurants and shops. Its historic sites include Golconda Fort, a former diamond-trading center that was once the Qutb Shahi dynastic capital. The Charminar, a 16th-century mosque whose 4 arches support towering minarets, is an old city landmark. Ramoji Film City  The Largest Film City in the world. A must visit holiday destination & amusement park in Hyderabad.
@@ -48,4 +48,11 @@ Hyderabad is the capital of southern India's Telangana state A major center for 
 | Golconda Fort          |   3 Hours        |   100 $         |
 | Nehru Zoological Park  |   4 Hours        |   150 $         |
 |                        |                  |                 |
- 
+
+----------------------------------------------------------------
+# Quotes
+> “Never never never give up.” *** Winston Churchill *** 
+
+> “It always seems impossible until it’s done.”   *** Nelson Mandela ***
+
+> “A person who never made a mistake never tried anything new.”  *** Albert Einstein ***
