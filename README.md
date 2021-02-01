@@ -11,12 +11,12 @@ Biryani is a mixed rice dish it is made with Indian spices, rice, and meat, and 
 # Groceries 
 1.Go to the store
 2. Buy Food
-     1. Rice 
-     2. Tomatoes
-     3. Onions
-     4. Chicken
-     5. chillies
-     6. Beans
+        1. Rice 
+       2. Tomatoes
+       3. Onions
+       4. Chicken
+       5. chillies
+       6. Beans
 1. Completed
 2. Return Home
 
