@@ -9,7 +9,6 @@ Biryani is a mixed rice dish it is made with Indian spices, rice, and meat, and 
 
 -------------------------------------------
 # Groceries 
-
 1. Go to the store
 2. Buy Food
        1. Rice 
@@ -90,7 +89,7 @@ Hyderabad is the capital of southern India's Telangana state A major center for 
 | Location               |     Images                                      |
 |------------------------|-------------------------------------------------|
 | Ramoji Film City       |![Ramoji Film City](images/Ramojifilmcity.jpg)   |
-| Charminar              |![Charminar](Charminar.jpg)                      |
+| Charminar              |![Charminar](images/Charminar.jpg)     |
 | Golconda Fort          |![Golconda](Golconda.jpg)                        |
 | Nehru Zoological Park  |![Zoo-Park](Nehru-Zoological-Park.jpg)           |
 |                        |                                                 |        
