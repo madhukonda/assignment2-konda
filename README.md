@@ -88,7 +88,7 @@ Hyderabad is the capital of southern India's Telangana state A major center for 
 
 | Location               |     Images                                      |
 |------------------------|-------------------------------------------------|
-| Ramoji Film City       |![Ramoji Film City](images/Ramojifilmcity.jpg)   |
+| Ramoji Film City       |![Ramoji Film City](/images/Ramojifilmcity.jpg)  |
 | Charminar              |![Charminar](images/Charminar.jpg)     |
 | Golconda Fort          |![Golconda](Golconda.jpg)                        |
 | Nehru Zoological Park  |![Zoo-Park](Nehru-Zoological-Park.jpg)           |
